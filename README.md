@@ -1,4 +1,4 @@
-### Hi there 👋
+### Estagiario Selita TI 👋
 
 <!--
 **EstagiarioTiSelita/EstagiarioTiSelita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![MarineGEO circle logo](/assets/logo-da-selita%20200x150.png "Selita logo")
